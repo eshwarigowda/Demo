@@ -1,0 +1,27 @@
+h1{
+    color: crimson;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: 10px 5px 6px black;
+    text-decoration: underline black 5px solid;
+    
+    text-transform: uppercase;/*upper,lower,capital*/
+   /*text-decoration-line: underline ;
+    text-decoration-color: black;
+    text-decoration-style: dotted;
+    text-decoration-thickness: 5px;
+    text-decoration: underline black 5px solid;
+*/
+}
+
+.abc
+{
+    color: rgb(83, 56, 215);
+   /* text-indent: 200px;*/
+}
+.d
+{
+    color: lime;
+}
+
